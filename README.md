@@ -1,6 +1,5 @@
 -  Hi, I’m Jack Chen
 -  I’m interested in Machine Learning and AI
--  I’m currently learning SLAM
 -  reach me: Email: cyljack@whu.edu.cn
 
 <!---
