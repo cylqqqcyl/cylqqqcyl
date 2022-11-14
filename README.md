@@ -40,6 +40,9 @@
   <a>
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="" height="30" width="30">
   </a>
+    <a>
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="" height="30" width="30">
+  </a> 
   <a>
     <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="" height="30" width="30">
   </a>  
