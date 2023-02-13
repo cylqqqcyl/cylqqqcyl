@@ -8,6 +8,7 @@
 - 🤔 I’m interested in Reinforcement Learning, Robotics, Network, Front End etc..
 - ❤️ I like gaming 🎮, taking photos 📸, bodybuilding 💪 and coding 💻!
 - 💬 Be free to ask me about anything [here](https://github.com/cylqqqcyl/cylqqqcyl/issues) or reach me at cyljack@whu.edu.cn
+- ✨ Find more about me (Blogs Thoughts, etc) at my [personal website](https://cylq.top)!
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylqqqcyl&langs_count=10&theme=transparent&layout=compact&hide_border=true" alt="cylqqqcyl :: Top Langs" /></p>
 
@@ -30,6 +31,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="" height="30" width="30">
   </a>  
 </p>
+
 <p align="left">
   <a>
     <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="" height="30" width="30">
@@ -46,7 +48,9 @@
   <a>
     <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="" height="30" width="30">
   </a>  
-  
+    <a>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="" height="30" width="30">
+  </a>  
 </p>
 
 <!---
