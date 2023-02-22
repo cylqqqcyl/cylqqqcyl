@@ -3,7 +3,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{cylqqqcyl}/count.svg" alt="cylqqqcyl :: Visitor's Count" /></p>
 <h2 align="center">Github Status</h2>
 
-- 🔭 I’m currently working on my personal website(Using React & Next.js).
+- 🔭 I’m currently developing an operation system all by myself.
 - 🌱 I’m currently studying at [Wuhan University](<https://www.whu.edu.cn/>)
 - 🤔 I’m interested in Reinforcement Learning, Robotics, Network, Front End etc..
 - ❤️ I like gaming 🎮, taking photos 📸, bodybuilding 💪 and coding 💻!
