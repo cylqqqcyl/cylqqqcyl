@@ -30,6 +30,9 @@
   <a>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="" height="30" width="30">
   </a>  
+  <a>
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" height="30" width="30">
+  </a> 
 </p>
 
 <p align="left">
@@ -50,7 +53,7 @@
   </a>  
     <a>
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="" height="30" width="30">
-  </a>  
+  </a>    
 </p>
 
 <!---
