@@ -3,11 +3,11 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{cylqqqcyl}/count.svg" alt="cylqqqcyl :: Visitor's Count" /></p>
 <h2 align="center">Github Status</h2>
 
-- 🔭 I’m currently developing an operation system all by myself.
-- 🌱 I’m currently studying at [Wuhan University](<https://www.whu.edu.cn/>)
+- 🔭 I’m currently developing LLM with control systems(Autonomous Driving, robot tasks etc.)
+- 🌱 Currently studying at [Wuhan University](<https://www.whu.edu.cn/>) and visiting [UCSB](<https://www.ucsb.edu/>)
 - 🤔 I’m interested in Reinforcement Learning, Robotics, Network, Front End etc..
 - ❤️ I like gaming 🎮, taking photos 📸, bodybuilding 💪 and coding 💻!
-- 💬 Be free to ask me about anything [here](https://github.com/cylqqqcyl/cylqqqcyl/issues) or reach me at cyljack@whu.edu.cn
+- 💬 Be free to ask me about anything [here](https://github.com/cylqqqcyl/cylqqqcyl/issues) or reach me at cylqqqcyl@outlook.com
 - ✨ Find more about me (Blogs Thoughts, etc) at my [personal website](https://cylq.top)!
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylqqqcyl&langs_count=10&theme=transparent&layout=compact&hide_border=true" alt="cylqqqcyl :: Top Langs" /></p>
