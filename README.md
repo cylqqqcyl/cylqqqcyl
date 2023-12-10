@@ -14,7 +14,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cylqqqcyl&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true"></p>
 <h3 align="left">Platform&Tools</h3>
-<p align="left">
+<p align="center">
   <a>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" height="30" width="30">
   </a>
@@ -35,7 +35,7 @@
   </a> 
 </p>
 
-<p align="left">
+<p align="center">
   <a>
     <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="" height="30" width="30">
   </a>    
