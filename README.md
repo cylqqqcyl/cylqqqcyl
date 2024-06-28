@@ -4,7 +4,7 @@
 <h2 align="center">Github Status</h2>
 
 - 🔭 I’m currently developing LLM with control systems(Autonomous Driving, robot tasks etc.)
-- 🌱 Currently studying at [Wuhan University](<https://www.whu.edu.cn/>) and visiting [UCSB](<https://www.ucsb.edu/>)
+- 🌱 Currently studying at [Yale](<https://www.yale.edu/>).
 - 🤔 I’m interested in Reinforcement Learning, Robotics, Network, Front End etc..
 - ❤️ I like gaming 🎮, taking photos 📸, bodybuilding 💪 and coding 💻!
 - 💬 Be free to ask me about anything [here](https://github.com/cylqqqcyl/cylqqqcyl/issues) or reach me at cylqqqcyl@outlook.com
