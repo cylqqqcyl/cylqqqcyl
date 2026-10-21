@@ -1,62 +1,43 @@
-# Jack Chen (Yinliang Chen)
-<h4 align="left">Visitor's count 💠:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{cylqqqcyl}/count.svg" alt="cylqqqcyl :: Visitor's Count" /></p>
-<h2 align="center">Github Status</h2>
-
-- 🔭 I’m currently developing LLM with control systems(Autonomous Driving, robot tasks etc.)
-- 🌱 Currently studying at [Yale](<https://www.yale.edu/>).
-- 🤔 I’m interested in Reinforcement Learning, Robotics, Network, Front End etc..
-- ❤️ I like gaming 🎮, taking photos 📸, bodybuilding 💪 and coding 💻!
-- 💬 Be free to ask me about anything [here](https://github.com/cylqqqcyl/cylqqqcyl/issues) or reach me at cylqqqcyl@outlook.com
-- ✨ Find more about me (Blogs Thoughts, etc) at my [personal website](https://cylq.top)!
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylqqqcyl&langs_count=10&theme=transparent&layout=compact&hide_border=true" alt="cylqqqcyl :: Top Langs" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cylqqqcyl&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true"></p>
-<h3 align="left">Platform&Tools</h3>
-<p align="center">
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" height="30" width="30">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="" height="30" width="30">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="" height="30" width="30">
-  </a>  
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="" height="30" width="30">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="" height="30" width="30">
-  </a>  
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="" height="30" width="30">
-  </a> 
-</p>
+<img alt="Yinliang Chen — Software Engineer at Tensor Auto" src="https://raw.githubusercontent.com/cylqqqcyl/cylqqqcyl/main/assets/header.svg" width="100%">
 
 <p align="center">
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="" height="30" width="30">
-  </a>    
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="" height="30" width="30">
-  </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="" height="30" width="30">
-  </a>
-    <a>
-    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="" height="30" width="30">
-  </a> 
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="" height="30" width="30">
-  </a>  
-    <a>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="" height="30" width="30">
-  </a>    
+  <a href="https://www.linkedin.com/in/yinliang-chen-372175294/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
+  <a href="https://scholar.google.com/citations?user=D3P1sgsAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-86_citations-4285F4?style=flat-square"></a>
+  <a href="mailto:yinliang0613@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yinliang0613%40gmail.com-EA4335?style=flat-square"></a>
+  <a href="https://cylq.top"><img alt="Website" src="https://img.shields.io/badge/Website-cylq.top-111827?style=flat-square"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=cylqqqcyl&style=flat-square&color=6366f1&label=profile+views">
 </p>
 
-<!---
-cylqqqcyl/cylqqqcyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About me
+
+- **Now** — Software Engineer at **Tensor Auto**: HD-map delivery and serving for an autonomous-driving platform (chunked map payloads, over-the-air hot reload, a thread-safe multi-map registry, health monitoring).
+- **Before** — **WorldEngine AI**: built the data and robotics infrastructure behind an embodied-AI data engine: an egocentric multi-camera capture platform on edge devices, exoskeleton-driven robot teleoperation, real-time VLA model inference, and a distributed GPU processing pipeline.
+- **Research** — vision-based UAV planning (WACV-W 2024) and RL path planning for mobile robots (*Sensors* 2023, first author). 86 citations.
+- **Education** — Yale, M.S. Computer Science (4.0) · Wuhan University, B.Eng. Computer Science (3.93).
+
+### Tech stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cpy%2Cts%2Cjava%2Cfastapi%2Creact%2Cpostgres%2Credis%2Cdocker%2Ckubernetes%2Caws%2Cgcp%2Cazure&theme=dark&perline=13">
+  <img alt="C++, Python, TypeScript, Java, FastAPI, React, PostgreSQL, Redis, Docker, Kubernetes, AWS, GCP, Azure" src="https://skillicons.dev/icons?i=cpp,py,ts,java,fastapi,react,postgres,redis,docker,kubernetes,aws,gcp,azure&theme=light&perline=13">
+</picture>
+
+<sub>Also: gRPC · ZeroMQ · SQL · distributed systems · GPU orchestration · edge computing · observability</sub>
+
+### GitHub activity
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=cylqqqcyl&show_icons=true&hide=contribs%2Cissues&include_all_commits=true&card_width=420&bg_color=00000000&title_color=a5b4fc&icon_color=5eead4&text_color=e6edf3&border_color=3d444d&border_radius=10">
+  <img alt="GitHub stats" height="150" src="https://github-stats-extended.vercel.app/api?username=cylqqqcyl&show_icons=true&hide=contribs,issues&include_all_commits=true&card_width=420&bg_color=00000000&title_color=4f46e5&icon_color=0891b2&text_color=1f2328&border_color=d1d9e0&border_radius=10">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=cylqqqcyl&layout=compact&langs_count=6&bg_color=00000000&title_color=a5b4fc&text_color=e6edf3&border_color=3d444d&border_radius=10">
+  <img alt="Most used languages" height="150" src="https://github-stats-extended.vercel.app/api/top-langs?username=cylqqqcyl&layout=compact&langs_count=6&bg_color=00000000&title_color=4f46e5&text_color=1f2328&border_color=d1d9e0&border_radius=10">
+</picture>
+</p>
+
+### Publications
+
+1. **A Safer Vision-Based Autonomous Planning System for Quadrotor UAVs With Dynamic Obstacle Trajectory Prediction and Its Application With LLMs** — WACV Workshops 2024 · [paper](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Zhong_A_Safer_Vision-Based_Autonomous_Planning_System_for_Quadrotor_UAVs_With_WACVW_2024_paper.html)
+2. **SLP-Improved DDPG Path-Planning Algorithm for Mobile Robot in Large-Scale Dynamic Environment** — *Sensors* 2023 · [paper](https://doi.org/10.3390/s23073521)
