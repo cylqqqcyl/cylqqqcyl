@@ -12,7 +12,7 @@
 
 - **Now** — Software Engineer at **Tensor Auto**: HD-map delivery and serving for an autonomous-driving platform.
 - **Before** — **WorldEngine AI**: built the data and robotics infrastructure behind an embodied-AI data engine: an egocentric multi-camera capture platform on edge devices, exoskeleton-driven robot teleoperation, real-time VLA model inference, and a distributed GPU processing pipeline.
-- **Research** — vision-based UAV planning (WACV-W 2024) and RL path planning for mobile robots (*Sensors* 2023, first author). 86 citations.
+- **Research** — vision-based UAV planning (WACV-W 2024) and RL path planning for mobile robots (*Sensors* 2023, first author).
 - **Education** — Yale, M.S. Computer Science (4.0) · Wuhan University, B.Eng. Computer Science (3.93).
 
 ### Tech stack
