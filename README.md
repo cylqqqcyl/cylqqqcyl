@@ -5,7 +5,7 @@
   <a href="https://scholar.google.com/citations?user=D3P1sgsAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-86_citations-4285F4?style=flat-square"></a>
   <a href="mailto:yinliang0613@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yinliang0613%40gmail.com-EA4335?style=flat-square"></a>
   <a href="https://cylq.top"><img alt="Website" src="https://img.shields.io/badge/Website-cylq.top-111827?style=flat-square"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=cylqqqcyl&style=flat-square&color=6366f1&label=profile+views">
+  <img alt="Profile views" src="https://hits.sh/github.com/cylqqqcyl.svg?style=flat-square&label=profile%20views&color=6366f1">
 </p>
 
 ### About me
